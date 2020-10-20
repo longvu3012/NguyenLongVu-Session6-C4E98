@@ -1,0 +1,38 @@
+/* div{
+    width: 200px;
+    height: 200px;
+    background: wheat;
+    font-size: 30px;
+    text-align: center;
+}
+div{
+    line-height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 3px;
+} */
+
+
+/* div{
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+}
+.P{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+.P{
+    padding-left: 10px;
+    padding-bottom: 45px;
+    padding-right: 40px;
+    padding-top: 45px;
+    padding : 45px 45px 45px 45px;
+} */
+
+.P{
+    padding : 45px 45px 45px 45px;
+}
