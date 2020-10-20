@@ -1,0 +1,19 @@
+/* div{
+    background: red;
+    display: inline;
+} */
+
+#span1{
+    background: red;
+}
+#span2{
+    background:yellow;
+    width: 500px;
+    display: inline-block;
+}
+span{
+    background: red;
+  }
+div{
+    background: blue;
+}
